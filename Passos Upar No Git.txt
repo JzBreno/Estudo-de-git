@@ -1,0 +1,4 @@
+1- git status (serve para ver se algum documento foi editado ou incluido)
+2- git add . (adiciona a fila para upar)
+3- git commit -m "nome da atualização" - (prepara para a atualização e põe a possibilidade de dizer o que foi adicionado)
+4 git push (manda para o github)
